@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Ryan Tsiao 👋
 
+## I am an undergraduate physics major at UCR with experience working in astrophysics, nuclear physics, and medical physics
+
+## About Me
+
+## Highlights
+
+## Papers
+
+## Talks
+
+## Newspaper Articles
+
+## What's Next?
 <!--
 **ryantsiao/ryantsiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

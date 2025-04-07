@@ -41,7 +41,10 @@
 <details>
   <summary><h3>Newspaper Articles</h3></summary>
 
+  - [UCR Team Tests Novel Detector Technology at Particle Collider](https://insideucr.ucr.edu/stories/2025/01/29/ucr-team-tests-novel-detector-technology-particle-collider)
+      - Alternatively published by [Brookhaven National Lab](https://www.bnl.gov/newsroom/news.php?a=222341)
   
+  - [Physicists Gain Hands-On Experience Using Cyclotron at UC Davis](https://insideucr.ucr.edu/stories/2024/05/29/physicists-gain-hands-experience-using-cyclotron-uc-davis)
 
 </details>
 

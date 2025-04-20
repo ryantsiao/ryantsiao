@@ -1,10 +1,10 @@
-## Hi there, I'm Ryan Tsiao 👋
+### Hi there, I'm Ryan Tsiao 👋
 
-## I am an undergraduate physics major at UCR with experience working in astrophysics, nuclear physics, and medical physics
+#### I am an undergraduate physics major at UCR with experience working in astrophysics, nuclear physics, and medical physics
 
 <details>
   <summary><h3>About Me</h3></summary>
-
+ Hi! I'm Ryan, an Currently I am most interested in applying physics in the medical field, 
   
 
 </details>
@@ -50,21 +50,10 @@
 
 <details>
   <summary><h3>What's Next?</h3></summary>
-
+  
+I am looking forward to my first taste of the medical physics field this summer at UCI. I will be working with Dr. Gultekin Gulsen and Dr. Lydia Su on Photo-Magnetic Imaging, which will culminate in a presentation and possibly a paper. My participation in this project is funded by the AAPM DREAM Fellowship, which is also funding a trip to the annual AAPM meeting in Washington D.C this July. These experiences will help me determine whether medical physics is the path I want to pursue with my physics degree, both in graduate school and beyond.
   
 
 </details>
-<!--
-**ryantsiao/ryantsiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whether you're a fellow student, researcher, or just interested in what I'm up to, connect with me through my [Linkedin](https://www.linkedin.com/in/ryan-tsiao-7b3a2b289/) (which I've just started setting up) or shoot me a message at 408-533-3387

@@ -14,6 +14,63 @@
 
 <details>
   <summary><h3>Highlights</h3></summary>
+  
+Carnegie Observatories — CASSI Summer Intern
+June 17,  2024 - August 23, 2024 
+- Studied protocluster found using a Lyman Alpha tomographic map produced by LATIS
+- Reduced raw MOSFIRE data collected from Keck Observatories
+- Extracted and manipulated data from CSV and FITS formatted files for analysis using python
+- Visually inspected 2D spectra for Hɑ emission lines
+- Calculated metallicity of protocluster galaxies using Hɑ and NII peaks in 1D spectra
+- Created a mass-metallicity relation by sorting galaxies into stellar mass bins
+- Attended workshops on advanced python, unix, reading research publications, scientific writing, instrumentation, and more
+- Produced and presented original graphs for weekly presentations
+- Shared college experience with high school students in joint Upward Bound/Carnegie Star Party
+- Authored a research report on my findings
+- Presented final results to Observatories in two separate formats: poster and slideshow
+- Presented work as a poster presentation at the 2025 AAS winter meeting
+UCR Physics Department — Arratia Lab Researcher
+ October 2023-Present
+- Collaborated with undergraduate and graduate students in a laboratory setting
+- Participated as the youngest attendee at the February 2024 EIC Consortium
+- Ran cosmic ray tests on SiPm-carrying scintillators in order to test scintillator performance
+- Made custom 3-pin wires to connect to CAEN units
+- Handled Strontium-90 sample to determine if using overlapping scintillators would increase the detection accuracy 
+- Organized, logged and connected LEMO cables to make 10-ft strands
+- Soldered and assembled ribbon cables
+- Redesigned frames for scintillators holding SiPms using 3D-printing software
+- Gained experience using equipment like CAEN units and concentrators for data acquisition
+- Created and presented slides summarizing progress at weekly status meetings
+UCR Physics Department — BirdTeam Researcher
+April 2023-August 2023
+- Collaborated with UCR graduate student and professor on work to be published in 2024
+- Used and modified cutting-edge code with the goal to compile the first ever LLS catalog using SDSS data
+- Trained to detect Lyman Limit Systems through visual inspection
+- Searched for bugs in the code and worked with the graduate student mentor to resolve them
+- Learned Bayesian model selection, the multivariate Gaussian, and basic bash commands
+- Ran code on various spectrums and wrote code to organize the results for cross-referencing
+- Presented work and findings to an audience of peers, graduate students, and professors
+- Wrote research paper that summarized the theory, methods, and results of completed work
+
+#### Trips
+Arratia Lab — UC Davis Cyclotron User
+ May 14, 2024 - May 16, 2024
+- Selected to travel to UC Davis to irradiate SiPMs 
+- Placed SiPM samples into the beamline
+- Ran cosmic ray tests on irradiated SiPM tiles
+- Assembled PCB boards with irradiated SiPMs for testing
+- Collaborated with Brookhaven National Lab, assembling PCB boards and training team members
+- Ran IV tests on SiPMs before irradiation to provide a baseline for radiation damage
+
+Arratia Lab — BNL Facilities User
+ February 20, 2024 - February 25, 2024
+- Selected to travel to Brookhaven National Lab to test prototype calorimeter insert in RHIC, with a focus on gauging the effects of radiation damage on the detector’s SiPMs
+- Constructed dark box to house prototype and assisted in installation of the prototype in STAR Hall
+- Learned to analyze input from multiple CAEN units using Janus
+- Collaborated with on-site technicians and physicists to install prototype
+- Completed Radiation training at BNL
+
+
 
   
 

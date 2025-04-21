@@ -4,7 +4,7 @@
 
 <details>
   <summary><h3>About Me</h3></summary>
- Hi! I'm Ryan, an Currently I am most interested in applying physics in the medical field, 
+ Welcome! 
   
 
 </details>
@@ -51,7 +51,7 @@
 <details>
   <summary><h3>What's Next?</h3></summary>
   
-I am looking forward to my first taste of the medical physics field this summer at UCI. I will be working with Dr. Gultekin Gulsen and Dr. Lydia Su on Photo-Magnetic Imaging, which will culminate in a presentation and possibly a paper. My participation in this project is funded by the AAPM DREAM Fellowship, which is also funding a trip to the annual AAPM meeting in Washington D.C this July. These experiences will help me determine whether medical physics is the path I want to pursue with my physics degree, both in graduate school and beyond.
+I am looking forward to the next chapter of my research: my first taste of the medical physics field this summer at UCI. I will be working with Dr. Gultekin Gulsen and Dr. Lydia Su on Photo-Magnetic Imaging, which will culminate in a presentation and possibly a paper. My participation in this project is funded by the AAPM DREAM Fellowship, which is also funding a trip to the annual AAPM meeting in Washington D.C this July. These experiences will help me determine whether medical physics is the path I want to pursue with my physics degree, both in graduate school and beyond.
   
 
 </details>

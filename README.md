@@ -4,6 +4,9 @@
 
 <details>
   <summary><h3>About Me</h3></summary>
+  
+ <p><img src="aboutme.gif" alt="About me gif" width="500"/></p>
+  
  Welcome! 
   
 

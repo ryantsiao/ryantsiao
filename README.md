@@ -15,7 +15,7 @@
 <details>
   <summary><h3>Highlights</h3></summary>
   
-Carnegie Observatories — CASSI Summer Intern
+Carnegie Observatories — CASSI Summer Intern  
 June 17,  2024 - August 23, 2024 
 - Studied protocluster found using a Lyman Alpha tomographic map produced by LATIS
 - Reduced raw MOSFIRE data collected from Keck Observatories
@@ -28,9 +28,10 @@ June 17,  2024 - August 23, 2024
 - Shared college experience with high school students in joint Upward Bound/Carnegie Star Party
 - Authored a research report on my findings
 - Presented final results to Observatories in two separate formats: poster and slideshow
-- Presented work as a poster presentation at the 2025 AAS winter meeting
-UCR Physics Department — Arratia Lab Researcher
- October 2023-Present
+- Presented work as a poster presentation at the 2025 AAS winter meeting  
+
+UCR Physics Department — Arratia Lab Researcher  
+October 2023-Present
 - Collaborated with undergraduate and graduate students in a laboratory setting
 - Participated as the youngest attendee at the February 2024 EIC Consortium
 - Ran cosmic ray tests on SiPm-carrying scintillators in order to test scintillator performance
@@ -41,7 +42,8 @@ UCR Physics Department — Arratia Lab Researcher
 - Redesigned frames for scintillators holding SiPms using 3D-printing software
 - Gained experience using equipment like CAEN units and concentrators for data acquisition
 - Created and presented slides summarizing progress at weekly status meetings
-UCR Physics Department — BirdTeam Researcher
+
+UCR Physics Department — BirdTeam Researcher  
 April 2023-August 2023
 - Collaborated with UCR graduate student and professor on work to be published in 2024
 - Used and modified cutting-edge code with the goal to compile the first ever LLS catalog using SDSS data
@@ -53,8 +55,8 @@ April 2023-August 2023
 - Wrote research paper that summarized the theory, methods, and results of completed work
 
 #### Trips
-Arratia Lab — UC Davis Cyclotron User
- May 14, 2024 - May 16, 2024
+Arratia Lab — UC Davis Cyclotron User  
+May 14, 2024 - May 16, 2024
 - Selected to travel to UC Davis to irradiate SiPMs 
 - Placed SiPM samples into the beamline
 - Ran cosmic ray tests on irradiated SiPM tiles
@@ -62,8 +64,8 @@ Arratia Lab — UC Davis Cyclotron User
 - Collaborated with Brookhaven National Lab, assembling PCB boards and training team members
 - Ran IV tests on SiPMs before irradiation to provide a baseline for radiation damage
 
-Arratia Lab — BNL Facilities User
- February 20, 2024 - February 25, 2024
+Arratia Lab — BNL Facilities User  
+February 20, 2024 - February 25, 2024
 - Selected to travel to Brookhaven National Lab to test prototype calorimeter insert in RHIC, with a focus on gauging the effects of radiation damage on the detector’s SiPMs
 - Constructed dark box to house prototype and assisted in installation of the prototype in STAR Hall
 - Learned to analyze input from multiple CAEN units using Janus

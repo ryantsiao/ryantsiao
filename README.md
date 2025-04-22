@@ -1,6 +1,6 @@
-### Hi there, I'm Ryan Tsiao 👋
+# Hi there, I'm Ryan Tsiao 👋
 
-#### I am an undergraduate physics major at UCR with experience working in astrophysics, nuclear physics, and medical physics
+#### I am an undergraduate physics major at UCR with experience working in astrophysics, nuclear physics, and (soon) medical physics
 
 <details>
   <summary><h3>About Me</h3></summary>

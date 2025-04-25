@@ -7,7 +7,7 @@
   
  <p><img src="aboutme.gif" alt="About me gif" width="500"/></p>
   
- Welcome! 
+ Welcome, and thanks for taking the time to get to know me a little more! As you will see in my highlights, I have been incredibly lucky to participate in a diverse range of quality research experiences, which have shaped my ambitions and long-term goals for a future career in research. 
   
 
 </details>

@@ -11,7 +11,7 @@
  
 As you'll see in my highlights, I’ve been incredibly fortunate to participate in a diverse range of high-quality research experiences. Each one has helped shape both my skillset and my long-term goals for a future career in research.
 
-Over the years I have found that I am driven by my curiosity and a desire to make a positive impact on the world through physics. With that goal in mind, I’ve set my sights on a future in medical physics, where I hope to apply my skills in ways that directly benefit people's lives. 
+Through these experiences I have found that I am driven by my curiosity and a desire to make a positive impact on the world through physics. With that goal in mind, I’ve set my sights on a future in medical physics, where I hope to apply my skills in ways that directly benefit people's lives. 
 
 </details>
 <details>

@@ -7,11 +7,13 @@
   
  <p><img src="aboutme.gif" alt="About me gif" width="500"/></p>
   
- Welcome, and thanks for taking the time to get to know me a little more! As you will see in my highlights, I have been incredibly lucky to participate in a diverse range of quality research experiences, which have shaped my ambitions and long-term goals for a future career in research. 
-  
+ Welcome, and thanks for taking the time to get to know me a little more! 
+ 
+As you'll see in my highlights, I’ve been incredibly fortunate to participate in a diverse range of high-quality research experiences. Each one has helped shape both my skillset and my long-term goals for a future career in research.
+
+Over the years I have found that I am driven by my curiosity and a desire to make a positive impact on the world through physics. With that goal in mind, I’ve set my sights on a future in medical physics, where I hope to apply my skills in ways that directly benefit people's lives. 
 
 </details>
-
 <details>
   <summary><h3>Highlights</h3></summary>
   

@@ -33,11 +33,11 @@ June 17,  2024 - August 23, 2024
 UCR Physics Department — Arratia Lab Researcher  
 October 2023-Present
 - Collaborated with undergraduate and graduate students in a laboratory setting
-- Participated as the youngest attendee at the February 2024 EIC Consortium
 - Ran cosmic ray tests on SiPm-carrying scintillators in order to test scintillator performance
 - Made custom 3-pin wires to connect to CAEN units
-- Handled Strontium-90 sample to determine if using overlapping scintillators would increase the detection accuracy 
-- Organized, logged and connected LEMO cables to make 10-ft strands
+- Handled Strontium-90 sample to determine if using overlapping scintillators would increase the detection accuracy
+- Conducted mock pedestal analysis tests to determine gain settings for real runs
+- Integrated LiDAR sensor with a Raspberry Pi to operate concurrently with Janus software, enabling the measurement of radiation variation as a function of distance
 - Soldered and assembled ribbon cables
 - Redesigned frames for scintillators holding SiPms using 3D-printing software
 - Gained experience using equipment like CAEN units and concentrators for data acquisition
@@ -54,7 +54,16 @@ April 2023-August 2023
 - Presented work and findings to an audience of peers, graduate students, and professors
 - Wrote research paper that summarized the theory, methods, and results of completed work
 
-#### Trips
+#### On-site Experiments
+Arratia Lab - Jlab Facilities User
+Feb 3, 2025 - Feb 8, 2025
+- Traveled to Virginia to assist calorimeter installation in Hall D 
+- Wired boards to CAEN units and helped construct metal barriers during installation 
+- Wrote script on-site to examine noise pedestals yielded from installed prototype
+- Completed extensive radiation training
+- Constructed dark box to house prototype from 80/20 bars
+
+
 Arratia Lab — UC Davis Cyclotron User  
 May 14, 2024 - May 16, 2024
 - Selected to travel to UC Davis to irradiate SiPMs 

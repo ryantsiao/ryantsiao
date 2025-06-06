@@ -45,7 +45,7 @@ October 2023-Present
 
 UCR Physics Department — BirdTeam Researcher  
 April 2023-August 2023
-- Collaborated with UCR graduate student and professor on work to be published in 2024
+- Contributed to the project during the academic year and through the UCR Physics & Astronomy REU program
 - Used and modified cutting-edge code with the goal to compile the first ever LLS catalog using SDSS data
 - Trained to detect Lyman Limit Systems through visual inspection
 - Searched for bugs in the code and worked with the graduate student mentor to resolve them

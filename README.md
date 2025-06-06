@@ -3,15 +3,13 @@
 #### I am an undergraduate physics major at UCR with experience working in astrophysics, nuclear physics, and (soon) medical physics
 
 <details>
-  <summary><h3>About Me</h3></summary>
+  <summary><h3>Introduction</h3></summary>
   
  <p><img src="aboutme.gif" alt="About me gif" width="500"/></p>
   
  Welcome, and thanks for taking the time to get to know me a little more! 
  
-As you'll see in my highlights, I’ve been incredibly fortunate to participate in a diverse range of high-quality research experiences. Each one has helped shape both my skillset and my long-term goals for a future career in research.
-
-Through these experiences I have found that I am driven by my curiosity and a desire to make a positive impact on the world through physics. With that goal in mind, I’ve set my sights on a future in medical physics, where I hope to apply my skills in ways that directly benefit people's lives. 
+This README is a collection of everything I have been able to do in the last 3 years, and lucky for me, some of the fruits of that labor. Anything that relates to my research is linked somewhere on here, so if you're interested, feel free to take a look at what I've been up to!
 
 </details>
 <details>

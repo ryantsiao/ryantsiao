@@ -100,8 +100,10 @@ February 20, 2024 - February 25, 2024
 
 <details>
   <summary><h3>Presentations</h3></summary>
+  
 - Pedestal Analysis in SiPM-on Tile Hadronic Calorimeter Prototype for the Electron-Ion Collider
     - Presented at the 2025 UCR Undergraduate Research & Creative Activities Symposium
+
 - Spectroscopic Confirmation and Gas-phase Metallicity Analysis of a Protocluster at z=2.46
     - Presented at the [CASSI 2024 Summer Symposium](https://www.youtube.com/watch?v=EhCW6ig4qEk&list=PL6RwPqS-Cv5YgNnNEWJMlVynG_E4EnGQN&index=8&t=88s) and the [AAS 2025 Winter Meeting](https://aas245-aas.ipostersessions.com/Default.aspx?s=6E-62-5F-2D-F2-B9-A7-BA-08-BD-A5-D6-10-0B-C3-9D)
 

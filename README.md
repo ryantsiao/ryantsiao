@@ -5,7 +5,7 @@
 <details>
   <summary><h3>Introduction</h3></summary>
   
- <p><img src="aboutme.gif" alt="About me gif" width="500"/></p>
+ <p><img src="aboutme_v2.gif" alt="About me gif" width="500"/></p>
   
  Welcome, and thanks for taking the time to get to know me a little more! 
  

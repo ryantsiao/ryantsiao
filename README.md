@@ -130,4 +130,4 @@ I am looking forward to the next chapter of my research: my first taste of the m
 
 </details>
 
-Whether you're a fellow student, researcher, or just interested in what I'm up to, connect with me through my [Linkedin](https://www.linkedin.com/in/ryan-tsiao-7b3a2b289/) (which I've just started setting up) or shoot me a message at 408-533-3387
+Whether you're a fellow student, researcher, or just interested in what I'm up to, connect with me through my [Linkedin](https://www.linkedin.com/in/ryan-tsiao-7b3a2b289/) or shoot me a message at 408-533-3387

@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan Tsiao 👋
 
-#### I am an undergraduate physics major at UCR with experience working in astrophysics, nuclear physics, and (soon) medical physics
+#### I am an undergraduate physics major at UCR with experience working in astrophysics, nuclear physics, and medical physics
 
 <details>
   <summary><h3>Introduction</h3></summary>
@@ -55,13 +55,16 @@ April 2023-August 2023
 - Wrote research paper that summarized the theory, methods, and results of completed work
 
 #### On-site Experiments
-Arratia Lab - Jlab Facilities User
-Feb 3, 2025 - Feb 8, 2025
-- Traveled to Virginia to assist calorimeter installation in Hall D 
-- Wired boards to CAEN units and helped construct metal barriers during installation 
-- Wrote script on-site to examine noise pedestals yielded from installed prototype
-- Completed extensive radiation training
-- Constructed dark box to house prototype from 80/20 bars
+
+UCI Radiology Department - AAPM DREAM Summer Fellow
+June 2025 - August 2025
+- Modeled heat diffusion from NIR lasers in cancerous tissue using MATLAB
+- Implemented Jacobian-based inversion methods to recover absorption coefficients from simulated data
+- Shadowed two Y-90 treatments at UCI Health, including differences between SIR-Spheres and TheraSpheres treatments
+- Observed live abdominal SBRT procedure
+- Gained insight into development and verification of SBRT treatment plans
+- Presented research findings virtually at the AAPM DREAM Summer Fellowship Symposium
+- Attended the AAPM Annual Summer Conference
 
 
 Arratia Lab — UC Davis Cyclotron User  
